@@ -1,0 +1,139 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 90px;
+}
+body{
+    margin: 0;
+    font-family: Helvatica neue, Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: right;
+}
+.logo-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvatica neue, Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+}
+.login-label{
+    color: #fff;
+    font-size: 11px;
+}
+.login-condrols{
+    margin-left: 115px;
+}
+.login{
+    margin-top: 10px;
+}
+.forgotten{
+    color: #fff;
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.submit-btn{
+    background: #4267b2;
+    color: #fff;
+    font-weight: 600;
+    height: 25px;
+    border-color: #29487d;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.submit-btn:hover{
+    background-color: #7aa5f9;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 167px;
+    padding-top: 24px;
+}
+.right-section{
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%;
+    height: 700px;
+}
+.para{
+    font-weight: bold;
+    font-size: 23px;
+    font-family: Helvatica neue, Helvetica, Arial, sans-serif;
+}
+.body-img{
+    width: 574px;
+    margin-top: -44px;
+}
+.heading-title{
+    margin-left: 757px;
+    margin-top: -295px;
+}
+.para2{
+    margin-left: 761px;
+    margin-top: -13px;
+}
+.login-form,.log{
+    margin-left: 758px;
+    padding: 6px;
+    margin-top: 6px;
+    border-radius: 5px;
+}
+.login-form2{
+    padding: 6px;
+    margin-left: -181px;
+    margin-top: 6px;
+    border-radius: 5px;
+}
+.log{
+    width:  343px;
+    padding: 6px;
+}
+#date_of_birth{
+    padding-top: 20px;
+    margin-left: 759px;
+    color: #29487d;
+    font-weight: 600;
+}
+.first{
+    margin-left: 759px;
+    padding: 6px; 
+}
+.second{
+    padding: 6px;
+}
+.third{
+    padding: 6px;
+}
+#genter{
+    padding-top: 20px;
+    margin-left: 759px;
+    color: #29487d;
+    font-weight: 600;  
+}
+.gender-select{
+    margin-left: 759px;
+}
+.paragraph{
+    margin-left: 759px;
+}
+.sgn-btn{
+    margin-left: 759px;
+    font-size: 20px;
+    width: 185px;
+    height: 37px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    border-radius: 7px;
+}
